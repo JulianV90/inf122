@@ -1,11 +1,13 @@
 body{
-    background-color: #f0f0f0;
+    background-color: #f8f1e3;
 }
 h1{
-    color: rgb(255,0,0);
-    font-size: 25px;
-    font-family: 'fantasy';
-    background-color: aqua;
+    text-align: center;
+    color:#f574df;
+   
+}
+h3{
+    color: #f574df;
 }
 p{
     font-size:large;
@@ -32,4 +34,11 @@ ul li{
 }
 .etiqueta{
     background-color: blue;
+}
+.bot{
+    border-radius: 5px;
+    background-color: chartreuse;
+}
+.eti{
+    background-color: aquamarine;
 }
